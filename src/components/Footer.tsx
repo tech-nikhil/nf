@@ -18,7 +18,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <img 
-                src="/neuralfence-logo-t.png" 
+                src="neuralfence-logo-t.png" 
                 alt="NeuralFence" 
                 className="h-8 w-auto brightness-0 invert"
               />

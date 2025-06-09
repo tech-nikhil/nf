@@ -45,7 +45,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <img 
-              src="/neuralfence-logo-t.png" 
+              src="neuralfence-logo-t.png" 
               alt="NeuralFence" 
               className="h-8 w-auto"
             />
